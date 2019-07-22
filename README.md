@@ -7,6 +7,7 @@ Record problems encountered during the racking process.
 Your app or its metadata does not appear to include final content. Specifically, your app contained placeholder contents in 公告 in 首页.
 
 Before you submit your app to the App Store, all of its content and metadata must be final. Your app must not include placeholder or incomplete information. For example, an app with “lorem ipsum” text in the app description field will be rejected. Likewise, an app with placeholder screenshots, such as “screenshot coming soon,” will be rejected. Instead, you should only submit an app with complete information and content throughout.
+
 翻译：
 您的应用或其元数据似乎不包含最终内容。 具体来说，您的应用程序在首页的公告中包含占位符内容。
 
@@ -52,7 +53,7 @@ Specifically, your 12.9-inch iPad Pro (3rd Generation) screenshots do not displa
 解决方法：
 预览中增加iPad Pro（第3代）快照，并且使快照中所用手机模型与真实模型保持一致。
 ```
-
+---
 ##### Guideline 2.1 - Information Needed
 
 
