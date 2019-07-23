@@ -76,3 +76,29 @@ Specifically, please kindly provide a Chinese mobile phone number and its SMS ve
 解决方法：
 增加账号白名单，让审核人员可以直接使用应用。
 ```
+---
+#### Guideline 5.2.3 - Legal - Intellectual Property
+
+
+Your app falls into a category of apps that is often used for illegal file sharing. 
+
+Specifically, this app is verified to contain references to p2p file sharing protocols.￼
+
+The next submission of this app may require a longer review time, and this app will not be eligible for an expedited review until this issue is resolved.
+
+Next Steps
+
+- Review the Intellectual Property section of the App Store Review Guidelines.
+- Ensure your app is compliant with all sections of the App Store Review Guidelines and the Terms & Conditions of the Apple Developer Program. 
+- Once your app is fully compliant, resubmit your app for review.
+
+Submitting apps designed to mislead or harm customers or evade the review process may result in the termination of your Apple Developer Program account. Review the Terms & Conditions of the Apple Developer Program to learn more about our policies regarding termination.
+
+For app design information, check out the following videos: and "Designing Intuitive User Experiences," available on the Apple Developer website.
+
+You may also want to review the iOS Human Interface Guidelines for more information on how to create a great user experience in your app.
+
+```
+解决方法：
+???
+```
