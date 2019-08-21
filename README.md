@@ -1,3 +1,20 @@
+
+Guideline 2.1 - Information Needed
+
+
+We have started the review of your app, but we are not able to continue because we need additional information about your app.
+
+Next Steps
+
+To help us proceed with the review of your app, please review the following questions and provide as much detailed information as you can.
+
+- Who is the target audience?
+- How do users obtain an account?
+- Is this app meant for internal distribution in your own company, in the company of one target client, or in multiple target clients’ companies?
+- In which countries will this app primarily be distributed?
+- If this app is meant for internal distribution, will the app be accessible by both internal and external partners? Or will it be exclusive to in-house employees?
+
+Once you reply to this message in Resolution Center with the requested information, we can proceed with your review.
 ## iOSAppReviewCollect
 Record problems encountered during the racking process.
 
@@ -98,7 +115,67 @@ For app design information, check out the following videos: and "Designing Intui
 
 You may also want to review the iOS Human Interface Guidelines for more information on how to create a great user experience in your app.
 
+翻译：
+准则5.2.3  - 法律 - 知识产权
+您的应用属于一类经常用于非法文件共享的应用。
+
+具体来说，此应用程序经过验证，包含对p2p文件共享协议的引用
+
+下次提交此应用可能需要较长的审核时间，在此问题得到解决之前，此应用无法获得加急审核。
+
+下一步
+
+查看App Store审查指南的知识产权部分。
+确保您的应用符合App Store审核指南的所有部分以及Apple Developer Program的条款和条件。
+在您的应用完全符合要求后，请重新提交您的应用以供审核。
+提交旨在误导或伤害客户或逃避审核流程的应用可能会导致Apple Developer Program帐户被终止。查看Apple开发者计划的条款和条件，以了解有关终止的政策的更多信息。
+
+有关应用程序设计信息，请查看以下视频：以及Apple Developer网站上提供的“设计直观的用户体验”。
+
+您可能还想查看iOS人机界面指南，了解有关如何在应用中创建出色用户体验的更多信息。
+
 ```
 解决方法：
 ???
+```
+---
+####Guideline 2.1 - Information Needed
+
+
+We have started the review of your app, but we are not able to continue because we need additional information about your app.
+
+Next Steps
+
+To help us proceed with the review of your app, please review the following questions and provide as much detailed information as you can.
+
+- Who is the target audience?
+- How do users obtain an account?
+- Is this app meant for internal distribution in your own company, in the company of one target client, or in multiple target clients’ companies?
+- In which countries will this app primarily be distributed?
+- If this app is meant for internal distribution, will the app be accessible by both internal and external partners? Or will it be exclusive to in-house employees?
+
+Once you reply to this message in Resolution Center with the requested information, we can proceed with your review.
+
+翻译：
+准则2.1  - 所需信息
+
+我们已开始审核您的应用，但我们无法继续，因为我们需要有关您的应用的其他信息。
+
+下一步
+
+为了帮助我们继续审核您的应用，请查看以下问题并提供尽可能详细的信息。
+
+ - 谁是目标受众？
+ - 用户如何获得帐户？
+ - 此应用程序是否适用于您自己公司，一个目标客户公司或多个目标客户公司的内部分发？
+ - 这个应用程序主要在哪些国家/地区分发？
+ - 如果此应用程序用于内部分发，内部和外部合作伙伴是否可以访问该应用程序？ 或者它是内部员工独有的？
+
+在解决方案中心使用所请求的信息回复此邮件后，我们可以继续您的审核。
+
+```
+问题说明：
+    由于我们的应用没有注册功能，只有登录功能，未对应用进行详细说明。
+解决方法：
+    邮件回复上述问题，并在附件中增加说明。
 ```
